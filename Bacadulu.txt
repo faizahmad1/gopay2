@@ -1,0 +1,10 @@
+Extract kayak biasa
+import database kayak biasa
+buka localhost/gopay (untuk user)
+register dulu kalo mau login user
+buka localhost/gopay/admin (untuk admin) 
+
+
+username admin: admin
+pass admin: admin 123
+email admin: admin@gmail.com
